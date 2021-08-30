@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @John-teology Currently student @Technological Univerty of The Philippines
-- 👀 I’m interested in Data Analytics, Webdev, Crypto, and Dota2 
-- 🌱 I’m currently Trying learn something new Everday! 
-- 📫 How to reach me Linkedin (soon to be created)
+- 👋 Hi, I’m @John-teology currently studying @Technological Univerty of The Philippines
+- 👀 I’m interested in Data Analytics, Webdev, Blockchain, and Dota2 
+- 🌱 I’m currently Trying learn something New everday! 
+- 📫 You can reach me in Linkedin (soon to be created)
 
 <!---
 John-teology/John-teology is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
