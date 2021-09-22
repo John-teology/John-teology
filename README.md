@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @John-teology currently studying @Technological Univerty of The Philippines
 - 👀 I’m interested in Data Analytics, Webdev, Blockchain, and Dota2 
-- 🌱 I’m currently Trying learn something New everday! 
+- 🌱 I’m currently Trying learn something New Everday! 
 - 📫 You can reach me in Linkedin (soon to be created)
 
 <!---
